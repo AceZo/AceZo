@@ -1,17 +1,17 @@
-## Hi there <img width="701" height="419" alt="изображение" src="https://github.com/user-attachments/assets/e7262774-aee2-4c09-8d72-f109edc96649" />
+## Hi there 💃
 
+I’m Catharsis, a software engineering student based in Kazakhstan.
 
-<!--
-**AceZo/AceZo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love the intersection of logic and aesthetics—designing and building whatever I can imagine.
 
-Here are some ideas to get you started:
+Currently, I'm pursuing my Bachelor's degree at Heriot-Watt University (Zhubanov Campus).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If a cool idea pops into my head, chances are I’ll try to code it and ship it. I'm obsessed with pixel perfection and building meaningful digital experiences.
+
+Fun Facts:
+
+    Constantly refining my craft at the intersection of code and design.
+
+    Big fan of video games(LoL/Dota2/Valorant/Minecraft). 
+
+    Obsessed with reading light-novels, favorite one is LOTM(lord of the mysteries).
