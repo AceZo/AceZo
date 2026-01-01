@@ -2,7 +2,7 @@
 
 I’m Catharsis, a software engineering student based in Kazakhstan.
 
-I love the intersection of logic and aesthetics—designing and building whatever I can imagine.
+I love the intersection of logic and aesthetics designing and building whatever I can imagine.
 
 Currently, I'm pursuing my Bachelor's degree at Heriot-Watt University (Zhubanov Campus).
 
