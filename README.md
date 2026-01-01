@@ -1,6 +1,6 @@
 # Hey there! 💃
 
-I’m **[Your Nickname]**, a software engineering student based in Kazakhstan. 
+I’m **Catharsis**, a software engineering student based in Kazakhstan. 
 I build at the intersection of logic and aesthetics, currently pursuing my Bachelor's at **Heriot-Watt University (Zhubanov Campus)**.
 
 ---
