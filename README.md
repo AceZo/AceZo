@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there <img width="701" height="419" alt="изображение" src="https://github.com/user-attachments/assets/e7262774-aee2-4c09-8d72-f109edc96649" />
+
 
 <!--
 **AceZo/AceZo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
